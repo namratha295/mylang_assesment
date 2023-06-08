@@ -1,0 +1,6 @@
+.search-suggestion{
+    padding: 10px 20px;
+}
+.search-suggestion:hover{
+    background: #e2eafc;
+}

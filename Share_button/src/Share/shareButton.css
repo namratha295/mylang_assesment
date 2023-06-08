@@ -1,0 +1,14 @@
+.share-btn {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: 48px;
+    height: 48px;
+    background: url("https://bit.ly/37iuXZy") no-repeat center center;
+    background-size: cover;
+    
+}
+.App{
+    height: 5000px;
+    background-color: beige;
+}

@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: #fefae0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+
